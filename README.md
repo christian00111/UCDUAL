@@ -21,10 +21,11 @@
 	* [Fluxo de Usuário](#fluxo-de-usuário)
 * [2 - Personas](#2---personas)
 * [3 - Cenários](#3---cenários)
-<h4 align="center"> 
-	🚧  Mais tópicos serão adicionados ao sumário com o desenvolver do trabalho. . . 🧑‍🎓
-</h4>
-
+* [4 - Protótipos](#4---protótipos)
+	* [4.1 - Lo-fi Protótipo de Baixa Fidelidade](#lo-fi-protótipo-de-baixa-fidelidade)
+	* [4.2 - Hi-fi Protótipo de Alta Fidelidade](#Hi-fi-protótipo-de-alta-fidelidade)
+* [5- Avaliação Heurística](#avaliação-heurística)
+* [6- Video](#vídeo)
 
 # Sobre o Projeto
 
@@ -37,7 +38,10 @@ A identidade visual do produto será mantida, seguindo as diretrizes da AutoPass
 # Tecnologias Usadas
 
 - [HTML5](https://html.spec.whatwg.org/)
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Balsamiq](https://balsamiq.com/wireframes/?gad=1&gclid=CjwKCAjwsvujBhAXEiwA_UXnAHoQBP2TNeIX65YQKTQ8wXERAVs7_CRCe-yEAmowC_qlUWOoHyEGuBoCEUkQAvD_BwE)
+- [Figma](https://www.figma.com/)
+- [Power Point](https://www.microsoft.com/pt-br/microsoft-365/p/powerpoint/CFQ7TTC0HLG1?activetab=pivot:overviewtab&ef_id=_k_CjwKCAjwsvujBhAXEiwA_UXnAPMooTjz2TT5PLJx2JopLUIkIdtN01QB6fkARLdlQSXuMDe6t2KxOBoCpqUQAvD_BwE_k_&OCID=AIDcmmq9ldqz5w_SEM__k_CjwKCAjwsvujBhAXEiwA_UXnAPMooTjz2TT5PLJx2JopLUIkIdtN01QB6fkARLdlQSXuMDe6t2KxOBoCpqUQAvD_BwE_k_&gclid=CjwKCAjwsvujBhAXEiwA_UXnAPMooTjz2TT5PLJx2JopLUIkIdtN01QB6fkARLdlQSXuMDe6t2KxOBoCpqUQAvD_BwE)
+- [Draw.io](https://www.drawio.com/)
 
 # 1 - Estudo da Aplicação Características e Requisitos 
 
@@ -59,14 +63,14 @@ Informações retiradas do site oficial da [AutoPass.](https://www.autopass.com.
   
 # Requisitos Funcionais 
 
-- [x] **Cadastrar Usuário**
-- [x] **Fazer Login**
-- [ ] Vender Bilhete Digital QR Code via Cartão de Débito 
-- [ ] Recarregar Cartão TOP em Dinheiro
-- [ ] Recarregar Cartão TOP via Cartão de Débito
-- [ ] Recarregar Bilhete Único em Dinheiro
-- [ ] Recarregar Bilhete Único via Cartão de Débito
-- [ ] Consultar o saldo
+- [x] Cadastrar Usuário
+- [x] Fazer Login
+- [x] Vender Bilhete Digital QR Code via Cartão de Débito 
+- [x] Recarregar Cartão TOP em Dinheiro
+- [x] Recarregar Cartão TOP via Cartão de Débito
+- [x] Recarregar Bilhete Único em Dinheiro
+- [x] Recarregar Bilhete Único via Cartão de Débito
+- [x] Consultar o saldo
 
 # Fluxo de Usuário: 
 <div align="center">
@@ -98,8 +102,79 @@ Informações retiradas do site oficial da [AutoPass.](https://www.autopass.com.
 <img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111094855/15c31ba4-2fa8-4e49-996a-dffee39d771e"width="750rem"/>
 </div>
 
-<h4 align="center"> 
-	🚧  Próxima entrega em desenvolvimento . . . Volte em breve 🧑‍🎓
-</h4>
+# 4 - Protótipos
+# Lo-fi Protótipo de Baixa Fidelidade 
+<div align="center">
+	<h2 align="center"> 
+	Processo QR CODE: 
+	</h2>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/05c9e700-1db4-409b-b8f8-32973b11b74f"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/cdafd259-e894-4958-a2ef-ea365b5a0660"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/916c20d5-29e6-4285-a01e-3748a19b5f7f"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/a96c0b9e-8fb6-42c0-9b37-4ac5e46ed95e"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/af45977d-8a14-46a2-995a-a09e75d773c5"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/1d034d00-51a4-402c-9978-462d4774642b"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/9ac047fe-b0fd-4ec7-b056-5ae889049540"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/1dc9dd26-33e6-43f6-903b-8937e4badbe4"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/5aff7a4c-1185-47b5-a618-e4cbb8756e5c"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/7367bda3-4145-4d28-95f8-e3982b488b07"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/1ab0c4e6-eef4-4599-90c4-5264404e75c9"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/23fb04c7-043d-4c86-ac3e-b2f125a55d52"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/4f9528c8-ee3e-4380-b128-42da16933c90"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/c8eeada3-02fe-4bf0-9919-3a6d5a561fca"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/024a0208-b3af-47bb-87ba-e4a378d84a6e"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/2ad3855e-e3d1-4713-ba74-f0970de86fe0"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/400ae71d-3663-49fe-a1f5-cb31137efea1"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/89c76dc0-ae85-441f-920e-11efa119fcf3"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/67fb9c3e-7af3-4441-b777-4c266af56f2a"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/d00e30cc-0775-405b-a745-1327268c94f0"width="750rem"/>
+</div></br></br>
+	<div align="center">
+	<h2 align="center"> 
+	Processo CARTÃO TOP: 
+	</h2>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/cba988f4-0238-41a4-9a36-54fcda594dd7"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/cff02342-1110-49c5-820c-e049c2952388"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/42271736-673c-425b-96a2-e3e7533471fe"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/91a476d7-615c-417b-8a89-cc80bde6fb7c"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/5482a310-410f-40d1-8493-494ef969de38"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/1e682076-ad2b-4ca5-86bb-5e02b854ba39"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/3b59467c-bb5d-4b63-9c27-f92504d086b3"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/31a932ed-4394-42b5-809b-ff262ee2ddf6"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/e0e757cb-13d6-4c5b-b2fb-ebd602ba6b76"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/eed86a26-7f77-43d3-8bff-c4558fc718c7"width="750rem"/>
+</div></br></br>
+	<div align="center">
+	<h2 align="center"> 
+	Processo BILHETE ÚNICO: 
+	</h2>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/3638bc74-078b-4e08-a87a-73d721f7702f"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/0bc5e7b3-6898-4f17-a7ce-8e4facbbe664"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/6749ec29-8af6-4be1-a41f-d9a9ffc8f092"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/0c07bda4-65c5-4bb6-a1d1-f192ae833b56"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/e263b4aa-af4d-463e-8e8a-78b02b07f459"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/87f6ebd1-d464-4797-84e3-8e30ee6138e9"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/e280f5d2-e5c6-4887-9dba-c41b937437a9"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/38e44e67-5587-443b-9a2c-3393ea52209f"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/b4843ab8-2e24-4464-af7d-0d5ca551300f"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/393190e4-e9b9-45a8-96fe-0ede9b5bdaed"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/ed75c3e5-526f-4391-abeb-15b2cb7e3377"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/80348864-6170-4744-9193-aa1deb109de9"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/5b5bd119-ffb1-4e14-b9f8-b88f0d2e8efa"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/728f3983-064f-44d7-a0cd-1161eaa31165"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/eba17938-2422-427d-8d70-51b4e3b6861d"width="750rem"/>
+</div></br></br>
+
+# Hi-fi Protótipo de Alta Fidelidade:
+
+[--------> Clique aqui para ser direcionado para interação do protótipo <--------](https://www.figma.com/proto/6PoEJe9Er9m3zVTksG5zQq/Fluxos-ATMs-Copy?type=design&node-id=206-74&scaling=min-zoom&page-id=206%3A74&starting-point-node-id=206%3A93)
+
+# Avaliação Heurística 
+[--------> Planilha com cálculos <--------](https://github.com/jeansillva/A3-ProjetoDual-AutoPass/blob/main/Planilha%20Avaliacao%20Final.xlsx) OBS: AO CLICAR NO LINK, CLIQUE EM VIEW RAW PARA REALIZAR O DOWLOAD DA PLANILHA! </br></br> 
+[--------> Relatório da Avaliação Heurística Final <--------](https://github.com/jeansillva/A3-ProjetoDual-AutoPass/blob/main/Avaliacao%20Heuristica%20Final.pdf)
+
+# Vídeo 
+
+[---------> Clique aqui para ser direcionado ao vídeo <---------](https://youtu.be/GSklQD2MGns)
 
 
